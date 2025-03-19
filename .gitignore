@@ -1,0 +1,17 @@
+# Virtual environments
+env/
+
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Vector DB files
+chroma_db/
+
+# Ignore LLaMA models
+models/
+*.bin
+*.pt
+*.ckpt
+
